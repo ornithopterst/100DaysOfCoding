@@ -1,4 +1,5 @@
 Notes
 
 4/3/2022
-    Starting 100 days of coding by playing the freeCodeCamp Learn to Code RPG
+    - Starting 100 days of coding by playing the freeCodeCamp Learn to Code RPG
+    - Played for an hour. Not really my kind of game. I'll probably start some freeCodeCamp tutorials tomorrow.
